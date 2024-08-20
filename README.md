@@ -84,6 +84,6 @@ Created by [BGD Labs](https://bgdlabs.com/).
 The default license of this repository is [BUSL1.1](./LICENSE), but all interfaces and the contents of the following folders are open source, MIT-licensed:
 - [Data helpers](./src/contracts/dataHelpers/)
 - [Misc libraries](./src/contracts/libraries/)
-- [Voting libraries](./src/contracts/voting/libs/)
+- [Voting libs](./src/contracts/voting/libs/)
 
 **IMPORTANT**. The BUSL1.1 license of this repository allows for any usage of the software, if respecting the *Additional Use Grant* limitations, forbidding any use case damaging anyhow the Aave DAO's interests.
